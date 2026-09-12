@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:ercframeworks.org)",
+      "WebFetch(domain:www.trulioo.com)",
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:www.holbornirma.com)"
+    ]
+  }
+}
