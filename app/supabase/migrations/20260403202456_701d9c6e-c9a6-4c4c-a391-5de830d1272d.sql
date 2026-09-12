@@ -1,0 +1,1 @@
+ALTER TABLE public.credentials ADD COLUMN IF NOT EXISTS jwt_token text;
